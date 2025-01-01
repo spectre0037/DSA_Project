@@ -37,7 +37,7 @@ struct Reservation_BUS
     Seats_BUS Seats_BUS;
     Reservation_BUS *left;
     Reservation_BUS *right;
-    Bus bus[4];
+    Bus bus[5];
 };
 struct AVLNode_BUS
 {

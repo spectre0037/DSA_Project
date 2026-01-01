@@ -32,7 +32,7 @@ struct Concert_Hall
 // Struct to represent a Concert_reservation
 struct Concert_Reservation
 {
-    string names;
+    string name;
     string gender;
     int age; // Added age field
     string ticketID;

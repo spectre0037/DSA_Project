@@ -37,7 +37,7 @@ struct Concert_Reservation
     int age; // Added age field
     string ticketID;
     string time;
-    string singer_name;
+    string singer_nam;
     string type;
     string date;
     double price;

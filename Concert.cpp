@@ -36,7 +36,7 @@ struct Concert_Reservation
     string gender;
     int age; // Added age field
     string ticketID;
-    string time;
+    string tim;
     string singer_name;
     string type;
     string date;

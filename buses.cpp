@@ -30,6 +30,7 @@ struct Reservation_BUS
 {
 
 
+
     
     string ticketID;
     double price;
